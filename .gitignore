@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Input videos
+*.mp4
+*.mpg
+*.mpeg
+*.mov
+*.avi
+
+# Generated CSV files
+pose_raw_data.csv
+pose_normalized.csv
+selected_frames.csv
+
+# Logs
+*.log
